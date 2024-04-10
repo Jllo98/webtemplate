@@ -1,0 +1,20 @@
+
+#box1{
+    display: flex;
+    background-color: #BB5D5B;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px 10px 10px 10px;
+    padding: 5px 10px 10px 10px;
+}
+
+#box1 h3{
+    text-transform: uppercase;
+    font-size: x-large;
+}
+
+.Ib1{
+    /* padding: 0px 10px 0px 10px; */
+    width: 25%;
+}

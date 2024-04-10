@@ -1,0 +1,43 @@
+
+#nav1 {
+    display: flex;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 40px;
+    /*border: 1px solid black;*/
+    background-color: #82BB9B;
+    align-items: center;
+}
+
+#Tit {
+    width: 77%;
+    color:white;
+}
+
+#list{
+    display: flex;
+    width: 23%;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    overflow: hidden;
+}
+
+li{
+    float: left;
+    padding: 5px;
+    
+}
+
+.button{
+    color: #82BB9B;
+    border: 1px #82BB9B;
+    border-radius: 4px;
+    height: 25px;
+    cursor: pointer;
+    background-color: white;
+}
